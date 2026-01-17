@@ -5,35 +5,35 @@ Analyzed Amazon sales data using Power BI to understand sales performance, fulfi
 
 🧹 Data Cleaning
 
-Removed duplicate records
-Handled missing values
-Standardized categories and date formats
+1.Removed duplicate records
+2.Handled missing values
+3.Standardized categories and date formats
 
 🛠 Tools Used
 
-Power BI
-Excel
-Power Query
+1.Power BI
+2.Excel
+3.Power Query
 
 📈 Dashboard Highlights
 
-Total Sales: 11.67M
-Courier Status Analysis
-Top 5 Product Categories
-Fulfillment (Amazon vs Merchant)
-Size-wise Demand Analysis
-Date Range Filter
+1.Total Sales: 11.67M
+2.Courier Status Analysis
+3.Top 5 Product Categories
+4.Fulfillment (Amazon vs Merchant)
+5.Size-wise Demand Analysis
+6.Date Range Filter
 
 🖼 Dashboard Preview
 
 📊 Key Insights
 
-T-Shirts are the top-selling category
-Amazon fulfillment handles maximum orders
-Medium & Large sizes have highest demand
+1.T-Shirts are the top-selling category
+2.Amazon fulfillment handles maximum orders
+3.Medium & Large sizes have highest demand
 
 🎯 Skills Demonstrated
 
-Data Cleaning
-Data Visualization
-Business Analysis
+1.Data Cleaning
+2.Data Visualization
+3.Business Analysis
